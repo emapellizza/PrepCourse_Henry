@@ -1,2 +1,4 @@
-# PrepCourse_Henry
-repo de prueba del prep course de henry
+Emanuel Pellzza
+
+Este proyecto es una prueba para utilizar github
+
